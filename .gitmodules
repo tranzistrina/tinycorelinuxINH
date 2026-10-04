@@ -1,0 +1,9 @@
+[submodule "vendor/upstream/tinyx"]
+	path = vendor/upstream/tinyx
+	url = https://github.com/tinycorelinux/tinyx.git
+[submodule "vendor/upstream/flwm"]
+	path = vendor/upstream/flwm
+	url = https://github.com/tinycorelinux/flwm.git
+[submodule "vendor/upstream/fltk_projects"]
+	path = vendor/upstream/fltk_projects
+	url = https://github.com/tinycorelinux/fltk_projects.git
