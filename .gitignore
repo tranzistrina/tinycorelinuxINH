@@ -1,0 +1,11 @@
+# Downloaded upstream source cache
+/sources/aarch64/toolchain/
+/sources/aarch64/kernel/
+
+# Build output
+/build/
+/out/
+/tmp/
+
+# Local tooling
+*.log
