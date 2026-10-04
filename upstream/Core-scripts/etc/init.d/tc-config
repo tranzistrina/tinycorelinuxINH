@@ -1,0 +1,5 @@
+#!/bin/busybox ash
+# Imported from tinycorelinux/Core-scripts master as an upstream reference.
+# Upstream: https://github.com/tinycorelinux/Core-scripts
+# NOTE: Full upstream source remains authoritative until the release/src
+# snapshot is imported into the repository with binary/archive support.
