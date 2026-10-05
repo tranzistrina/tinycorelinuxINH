@@ -1,6 +1,7 @@
 # Downloaded upstream source cache
 /sources/aarch64/toolchain/
 /sources/aarch64/kernel/
+/sources/aarch64/archlinux-arm/
 
 # Build output
 /build/
